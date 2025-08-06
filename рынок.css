@@ -3,7 +3,7 @@
 	src: url(Lexend-VariableFont_wght.ttf);
 }
 * {
-  font-family: 'Lexend';
+  font-family: 'Lexend', serif;
 }
 .line {
   height: 1px;
