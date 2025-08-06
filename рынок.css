@@ -1,5 +1,9 @@
+@font-face {
+	font-family: 'Lexend';
+	src: url(Lexend-VariableFont_wght.ttf);
+}
 * {
-  font-family: Lexend;
+  font-family: 'Lexend';
 }
 .line {
   height: 1px;
@@ -33,7 +37,7 @@ body {
   border: 1px solid #4cfdc7;
   border-radius: 4px;
   background-color: #4cfdc7;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   line-height: 100%;
   letter-spacing: 0.1px;
@@ -48,7 +52,7 @@ body {
 }
 .star-p {
   display: inline-block;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 14px;
@@ -84,7 +88,7 @@ nav ul {
 }
 nav li {
   margin-left: 20px;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -105,14 +109,11 @@ nav li {
 /* block-1 */
 
 .block-1 {
-  margin-top: 100px;
+  padding-top: 100px;
 }
 .block-1 > .iphone,
 .content {
   display: inline-block;
-}
-.block-1 > .iphone {
-  margin-left: 650px;
 }
 .block-1 > button {
   font-size: 16px;
@@ -129,7 +130,7 @@ nav li {
 .block-1 > h1 {
   width: 659px;
   height: 180px;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-size: 71px;
   line-height: 90px;
@@ -139,7 +140,7 @@ nav li {
 .block-1 > p {
   width: 461;
   height: 60;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-size: 20px;
   line-height: 30px;
@@ -159,7 +160,7 @@ nav li {
 }
 .block-2 > table {
   box-shadow: 0px 0px 16px 0px #09181a0a;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 15px;
@@ -171,7 +172,7 @@ nav li {
   height: 700px;
 }
 .block-2 > .head {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -194,7 +195,7 @@ tfoot {
   text-align: center;
 }
 .p1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -205,7 +206,7 @@ tfoot {
   color: #18181b;
 }
 .p2 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   padding-left: 32px;
@@ -222,7 +223,7 @@ tfoot {
   height: 32px;
 }
 .aud {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 14px;
@@ -240,7 +241,7 @@ tfoot {
 	margin: 0 auto;
 }
 .block-3-h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 46px;
@@ -249,7 +250,7 @@ tfoot {
   letter-spacing: 1px;
 }
 .block-3-h {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 20px;
@@ -265,7 +266,7 @@ tfoot {
   margin-top: 124px;
 }
 .block-3-p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 15px;
@@ -298,7 +299,7 @@ tfoot {
 	padding-left: 500px;
 }
 .block-4-p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -308,7 +309,7 @@ tfoot {
   color: #27272a;
 }
 .trade {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -320,7 +321,7 @@ tfoot {
   margin-top: 55px;
 }
 .block-4-h {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -338,7 +339,7 @@ tfoot {
   padding-top: 200px;
 }
 .block-5 > p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -349,7 +350,7 @@ tfoot {
   color: #18181b;
 }
 .block-5 > h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 40px;
@@ -360,7 +361,7 @@ tfoot {
   padding-bottom: 64px;
 }
 .block-5-h {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -371,7 +372,7 @@ tfoot {
   padding-top: 8px;
 }
 .block-5-p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -390,7 +391,7 @@ tfoot {
   padding-top: 128px;
 }
 .block-6 > .p1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 15px;
@@ -401,7 +402,7 @@ tfoot {
   color: #18181b;
 }
 .block-6 > .p2 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 15px;
@@ -420,7 +421,7 @@ tfoot {
   display: inline-block;
 }
 .block-6-p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -451,7 +452,7 @@ tfoot {
   text-align: center;
 }
 .block-7 > h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 48px;
@@ -490,7 +491,7 @@ tfoot {
   margin-top: 300px;
 }
 .block-8 > h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 46px;
@@ -501,7 +502,7 @@ tfoot {
 }
 .block-8 > p {
   margin-bottom: 30px;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -521,7 +522,7 @@ tfoot {
   left: 187px;
 }
 .block-8 > .learn {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -536,7 +537,7 @@ tfoot {
 /* block-9 */
 
 .block-9 > h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 31px;
@@ -587,7 +588,7 @@ tfoot {
 }
 .block-9-p1 {
   display: inline-block;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 12px;
@@ -599,7 +600,7 @@ tfoot {
   padding-top: 18px;
 }
 .block-9-h {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 24px;
@@ -609,7 +610,7 @@ tfoot {
   color: #18181b;
 }
 .block-9-p2 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -633,7 +634,7 @@ tfoot {
 .block-10 > button {
   width: 156px;
   height: 41px;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 16px;
@@ -643,7 +644,7 @@ tfoot {
   text-align: center;
 }
 .block-10 h1 {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 46px;
@@ -664,7 +665,7 @@ tfoot {
 }
 .block-11-p {
   color: #18181b;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 12px;
@@ -691,7 +692,7 @@ tfoot {
 .block-11-li {
   text-align: left;
   padding-top: 16px;
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 12px;
@@ -701,7 +702,7 @@ tfoot {
   color: #3f3f46;
 }
 .block-11 > .p {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 12px;
@@ -715,7 +716,7 @@ tfoot {
   margin-top: 88px;
 }
 .block-11 > .ppp {
-  font-family: Lexend;
+  font-family: 'Lexend';
   font-weight: 400;
   font-style: Regular;
   font-size: 12px;
